@@ -17,7 +17,6 @@ Keystrokes: https://userinterfaces.aalto.fi/136Mkeystrokes/data/Keystrokes.zip
 
 The file sctructure should be this:
 
-.
 ├── README.md
 └── dataset/
     ├── Mouse-Dynamics/
