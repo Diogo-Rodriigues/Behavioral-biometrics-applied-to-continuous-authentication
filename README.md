@@ -7,6 +7,7 @@ TO DOWNLOAD THE DATASET FOR THE TRAIN FOLLOW THESE INSTRUCTIONS:
 
 1. Donwload both datasets where:
 Mouse Dynamics: https://github.com/balabit/Mouse-Dynamics-Challenge/tree/master
+
 Keystrokes: https://userinterfaces.aalto.fi/136Mkeystrokes/data/Keystrokes.zip
 
 2. Create in the root of the project a directory called 'dataset'
