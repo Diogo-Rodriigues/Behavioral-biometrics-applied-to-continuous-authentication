@@ -29,21 +29,23 @@ def on_release(key, pressedKeys, file):
         log_dataK(datetime.now(), 'SpecialKeyReleased', str(key), file)
 
 ## Mouse Dynamics Functions
-def on_move(x, y, file):
-    print('Cursor moved to {0}'.format((x, y)))
-    log_dataM(datetime.now(), 'MouseMovement', str(x) + ", " + str(y), file)
+def on_move(x, y, isClicking, file):
+    if isClicking["status"]:
+        print('Cursor dragged to {0}'.format((x, y)))
+        log_dataM(datetime.now(), 'MouseDrag', str(x) + ", " + str(y), file)
+    else:
+        print('Cursor moved to {0}'.format((x, y)))
+        log_dataM(datetime.now(), 'MouseMovement', str(x) + ", " + str(y), file)
 
 def on_scroll(x, y, dx, dy, file):
     print('Mouse scrolled {0} at {1}'.format('down' if dy < 0 else 'up', (x, y)))
     log_dataM(datetime.now(), 'MouseScroll', str(x) + ", " + str(y) + "; " + str(dx) + ", " + str(dy), file)
 
-def on_click(x, y, button, pressed, file):
+def on_click(x, y, button, pressed, isClicking, file):
+    isClicking["status"] = pressed
     print('{0} at {1}'.format('Pressed' if pressed else 'Released', (x, y)))
     log_dataM(datetime.now(),'MouseClicked', str(button), file)
-    if not pressed:
-        #stop listener
-        print('Gracefully Stopping!')
-        return False
+
 
 ## Aux Functions
 # Logs
@@ -134,13 +136,12 @@ def main():
     fileMouse = open(f'logs/mouse{logFileName}', 'a')
 
     pressedKeys = set()
+    isClicking = {"status": False}
 
     with keyboard.Listener(on_press = lambda x: on_press(x, pressedKeys, fileKeyboard), on_release = lambda x: on_release(x, pressedKeys, fileKeyboard)) as k_listener, \
-         mouse.Listener(on_click=lambda x, y, btn, prs: on_click(x, y, btn, prs, fileMouse), on_move = lambda x, y: on_move(x, y, fileMouse), on_scroll = lambda x, y, dx, dy: on_scroll(x, y, dx, dy, fileMouse)) as m_listener:
+        mouse.Listener(on_click=lambda x, y, btn, prs: on_click(x, y, btn, prs, isClicking, fileMouse), on_move = lambda x, y: on_move(x, y, isClicking, fileMouse), on_scroll = lambda x, y, dx, dy: on_scroll(x, y, dx, dy, fileMouse)) as m_listener:
         k_listener.join()
-        m_listener.join()
-
-    
+        m_listener.stop()
 
     fileKeyboard.close()
     fileMouse.close()
