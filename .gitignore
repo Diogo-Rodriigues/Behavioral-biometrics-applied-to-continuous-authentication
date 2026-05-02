@@ -1,0 +1,7 @@
+Notas_SA/
+
+src/logs/*
+src/__pycache__/
+src/.vscode/
+
+.vscode
