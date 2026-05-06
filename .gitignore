@@ -4,4 +4,6 @@ src/logs/*
 src/__pycache__/
 src/.vscode/
 
+/dataset/*
+
 .vscode
