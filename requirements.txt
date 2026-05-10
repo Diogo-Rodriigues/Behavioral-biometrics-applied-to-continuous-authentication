@@ -1,5 +1,14 @@
+--index-url https://download.pytorch.org/whl/cu130
+--extra-index-url https://pypi.org/simple
+torch
+torchvision
+torchinfo
 pandas 
 numpy
 pynput
 tqdm
 pyarrow
+livelossplot
+ipython
+scikit-learn
+livelossplot
