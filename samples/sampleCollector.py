@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 import re
 import sys
-from jsonToTxtConverter import keyboardConverter#, mouseConverter
+from jsonToTxtConverter import keyboardConverter, mouseConverter
 
 IDS_PATH = "ids.txt"
 
@@ -48,7 +48,7 @@ def on_scroll(x, y, dx, dy, file):
 def on_click(x, y, button, pressed, isClicking, file):
     isClicking["status"] = pressed
     print('{0} at {1}'.format('Pressed' if pressed else 'Released', (x, y)))
-    description = 'MouseClicked' + ('Left' if 'left' in str(button) else 'Right')
+    description = 'Mouse' + ('Pressed' if pressed else 'Released') + ('Left' if 'left' in str(button) else 'Right')
     log_dataM(time.time(), description, str(x) + ", " + str(y), "null", file)
 
 
@@ -146,8 +146,9 @@ def normalizeJSON(path):
     with open(path, 'r') as file:
         content = file.read()
 
-    with open(path, 'w') as file:
-        file.write(content[:-7] + content[-6:])
+    if len(content) > 20:
+        with open(path, 'w') as file:
+            file.write(content[:-7] + content[-6:])
 
 ## Main Function
 #TODO: Apply sliding window method
@@ -166,6 +167,7 @@ def main():
 
     pressedKeys = set()
     isClicking = {"status": False}
+    startTime = time.time()
 
     with keyboard.Listener(on_press = lambda x: on_press(x, pressedKeys, fileKeyboard), on_release = lambda x: on_release(x, pressedKeys, fileKeyboard)) as k_listener, \
         mouse.Listener(on_click=lambda x, y, btn, prs: on_click(x, y, btn, prs, isClicking, fileMouse), on_move = lambda x, y: on_move(x, y, isClicking, fileMouse), on_scroll = lambda x, y, dx, dy: on_scroll(x, y, dx, dy, fileMouse)) as m_listener:
@@ -182,7 +184,9 @@ def main():
     normalizeJSON(logKeyboardPath)
     normalizeJSON(logMousePath)
 
-    keyboardConverter(logKeyboardPath, logFileName[:-4] + "txt")
+    logFileName = logFileName[:-4] + "txt"
+    keyboardConverter(logKeyboardPath, logFileName)
+    mouseConverter(logMousePath, logFileName, startTime)
 
 if __name__ == "__main__":
     main()

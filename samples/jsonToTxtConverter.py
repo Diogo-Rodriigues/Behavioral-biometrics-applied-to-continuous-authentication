@@ -1,14 +1,16 @@
 import json
 import re
 from pynput.keyboard import Key
+import time
 
 special_keys = list(Key)
 key_to_id = {str(k): 1000 + i for i, k in enumerate(special_keys)}
 
+# ======================================================================================== #
+#                                KEYBOARD - FUNCTIONS                                      #
+# ======================================================================================== #
+
 def getKeycode(key):
-
-    print(key)
-
     try:
         # Caso seja uma tecla comum
         if len(key) == 1:
@@ -20,7 +22,7 @@ def getKeycode(key):
     except Exception:
         return 0
 
-def writeData(PATH_AUTH, fileName, pressEvent, relEvent, COUNTER):
+def writeKData(PATH_AUTH, fileName, pressEvent, relEvent, COUNTER):
     
     pathToJson = PATH_AUTH + "sessionID.json"
     with open(pathToJson, 'r') as jsonFile:
@@ -74,7 +76,7 @@ def keyboardConverter(jsonPath, fileName):
                 relEvent["desc"] = recRel["desc"]
                 relEvent["key"]  = recRel["key"]
 
-                COUNTER = writeData(PATH_AUTH, fileName, pressEvent, relEvent, COUNTER)
+                COUNTER = writeKData(PATH_AUTH, fileName, pressEvent, relEvent, COUNTER)
     
     PATH2SESSION_JSON = PATH_AUTH + "sessionID.json"
     with open(PATH2SESSION_JSON, 'r') as jsonFile:
@@ -85,3 +87,82 @@ def keyboardConverter(jsonPath, fileName):
     with open(PATH2SESSION_JSON, 'w') as jsonFile:
         json.dump(data, jsonFile, indent=4)
     return            
+
+# ======================================================================================== #
+#                                MOUSE - FUNCTIONS                                         #
+# ======================================================================================== #
+
+def writeMData(PATH_AUTH, userId, fileName, clientTS, button, state, x, y):
+    
+    pathToJson = PATH_AUTH + "sessionID.json"
+    with open(pathToJson, 'r') as jsonFile:
+        data = json.load(jsonFile)
+
+    PATH_USER = f"../datasets/Mouse-Dynamics/AuthorizedUsers/user{userId}/" + fileName
+
+    #clientTS = clientTS
+    #button = button
+    # state = state
+    # x = x
+    # y = y  
+
+    with open(PATH_USER, "a") as file:
+        file.write(f"0.0,{clientTS},{button},{state},{x},{y}\n")
+
+def mouseConverter(jsonPath, fileName, startTime):
+
+    userId = int(re.search(r"id(\d)+", fileName).group(1))
+
+    PATH_AUTH = "../datasets/Mouse-Dynamics/AuthorizedUsers/"
+    PATH2SESSION_JSON = PATH_AUTH + "sessionID.json"
+
+    with open(PATH2SESSION_JSON, 'r') as jsonFile:
+        dataJson = json.load(jsonFile)
+
+    sessionId = dataJson[f"{userId}"]
+    sessionfileName = f"session_{sessionId}.txt"
+
+    PATH_USER = PATH_AUTH + f"user{userId}/" + sessionfileName
+
+    with open(PATH_USER, "a") as file:
+        file.write('record timestamp,client timestamp,button,state,x,y\n')
+
+    with open(jsonPath, 'r') as jsonFile:
+        data = json.load(jsonFile)
+
+        record = data["record"]
+        for entry in record:
+
+            clientTS = float(entry['ts']) - startTime
+            description = entry['desc']
+
+            if re.search("Left", description):
+                button = "Left"
+            elif re.search("Right", description):
+                button = "Right"
+            elif re.search("Scroll", description):
+                button = "Scroll"
+            else:
+                button = "NoButton"
+                
+            if re.search("Pressed", description):
+                state = "Pressed"
+            elif re.search("Released", description):
+                state = "Released"
+            elif re.search("Move", description):
+                state = "Move"
+            elif re.search("Drag", description):
+                state = "Drag"
+            else:
+                state = "Up" if entry["dir"] == 1 else "Down"
+
+            x = entry["info"][0]
+            y = entry["info"][1]
+
+            writeMData(PATH_AUTH, userId, sessionfileName, clientTS, button, state, x, y)
+    
+    dataJson[f"{userId}"] += 1
+
+    with open(PATH2SESSION_JSON, 'w') as jsonFile:
+        json.dump(dataJson, jsonFile, indent=4)
+    return    

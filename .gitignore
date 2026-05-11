@@ -1,9 +1,13 @@
 Notas_SA/
 
-src/logs/*
-src/__pycache__/
-src/.vscode/
+src/sensor/logs/*
+src/sensor/__pycache__/
 
-/dataset/*
+datasets/Keystrokes/files/*
+datasets/Keystrokes/keystroke_dataset_processado.csv
+datasets/Mouse-Dynamics/test_files/*
+datasets/Mouse-Dynamics/training_files/*
+datasets/Mouse-Dynamics/public_labels.csv
+datasets/Mouse-Dynamics/mouse_dataset_processado.parquet
 
 .vscode
