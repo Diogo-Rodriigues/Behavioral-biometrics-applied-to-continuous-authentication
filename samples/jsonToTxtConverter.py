@@ -24,7 +24,7 @@ def getKeycode(key):
 
 def writeKData(PATH_AUTH, fileName, pressEvent, relEvent, COUNTER):
     
-    pathToJson = PATH_AUTH + "sessionID.json"
+    pathToJson = "../src/datasets/sessionID.json"
     with open(pathToJson, 'r') as jsonFile:
         data = json.load(jsonFile)
 
@@ -78,14 +78,17 @@ def keyboardConverter(jsonPath, fileName):
 
                 COUNTER = writeKData(PATH_AUTH, fileName, pressEvent, relEvent, COUNTER)
     
-    PATH2SESSION_JSON = PATH_AUTH + "sessionID.json"
-    with open(PATH2SESSION_JSON, 'r') as jsonFile:
-        data = json.load(jsonFile)
+    #FIXME: Agora movi o "SessionID" para fora para que não seja necessário estar a atualizar sempre 2 ficheiros
+    #removi este segmento, ainda tenho de ver se não há nenhum tipo de conflito
 
-    data[str(re.search(r"id(\d)+", fileName).group(1))] += 1
+    # PATH2SESSION_JSON = "../src/datasets/sessionID.json"
+    # with open(PATH2SESSION_JSON, 'r') as jsonFile:
+    #     data = json.load(jsonFile)
 
-    with open(PATH2SESSION_JSON, 'w') as jsonFile:
-        json.dump(data, jsonFile, indent=4)
+    # data[str(re.search(r"id(\d)+", fileName).group(1))] += 1
+
+    # with open(PATH2SESSION_JSON, 'w') as jsonFile:
+    #     json.dump(data, jsonFile, indent=4)
     return            
 
 # ======================================================================================== #
@@ -94,10 +97,6 @@ def keyboardConverter(jsonPath, fileName):
 
 def writeMData(PATH_AUTH, userId, fileName, clientTS, button, state, x, y):
     
-    pathToJson = PATH_AUTH + "sessionID.json"
-    with open(pathToJson, 'r') as jsonFile:
-        data = json.load(jsonFile)
-
     PATH_USER = f"../src/datasets/Mouse-Dynamics/AuthorizedUsers/user{userId}/" + fileName
 
     #clientTS = clientTS
@@ -114,12 +113,14 @@ def mouseConverter(jsonPath, fileName, startTime):
     userId = int(re.search(r"id(\d)+", fileName).group(1))
 
     PATH_AUTH = "../src/datasets/Mouse-Dynamics/AuthorizedUsers/"
-    PATH2SESSION_JSON = PATH_AUTH + "sessionID.json"
+    PATH2SESSION_JSON = "../src/datasets/sessionID.json"
 
     with open(PATH2SESSION_JSON, 'r') as jsonFile:
         dataJson = json.load(jsonFile)
 
-    sessionId = dataJson[f"{userId}"]
+    sessionNumSum = sum(list(map(int ,dataJson.values())))
+
+    sessionId = sessionNumSum
     sessionfileName = f"session_{sessionId}.txt"
 
     PATH_USER = PATH_AUTH + f"user{userId}/" + sessionfileName

@@ -1,0 +1,4384 @@
+{
+	"record": [
+		{
+		"ts": 1778952848.0882866,
+		"desc": "MouseMovement",
+		"info": [753, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.0949996,
+		"desc": "MouseMovement",
+		"info": [754, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.3989396,
+		"desc": "MouseMovement",
+		"info": [755, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.4068568,
+		"desc": "MouseMovement",
+		"info": [756, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.4147696,
+		"desc": "MouseMovement",
+		"info": [756, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.4228897,
+		"desc": "MouseMovement",
+		"info": [758, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.430954,
+		"desc": "MouseMovement",
+		"info": [759, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.438937,
+		"desc": "MouseMovement",
+		"info": [759, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.4550471,
+		"desc": "MouseMovement",
+		"info": [760, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.462905,
+		"desc": "MouseMovement",
+		"info": [761, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.4870317,
+		"desc": "MouseMovement",
+		"info": [762, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.4948795,
+		"desc": "MouseMovement",
+		"info": [763, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5019104,
+		"desc": "MouseMovement",
+		"info": [764, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.510802,
+		"desc": "MouseMovement",
+		"info": [765, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5189295,
+		"desc": "MouseMovement",
+		"info": [767, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5257797,
+		"desc": "MouseMovement",
+		"info": [770, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5350015,
+		"desc": "MouseMovement",
+		"info": [771, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5427835,
+		"desc": "MouseMovement",
+		"info": [774, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5498197,
+		"desc": "MouseMovement",
+		"info": [775, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5588014,
+		"desc": "MouseMovement",
+		"info": [779, 819],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5668151,
+		"desc": "MouseMovement",
+		"info": [782, 819],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5739515,
+		"desc": "MouseMovement",
+		"info": [784, 819],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5829895,
+		"desc": "MouseMovement",
+		"info": [786, 820],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5910797,
+		"desc": "MouseMovement",
+		"info": [791, 821],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.5978563,
+		"desc": "MouseMovement",
+		"info": [798, 821],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6067781,
+		"desc": "MouseMovement",
+		"info": [807, 823],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6148627,
+		"desc": "MouseMovement",
+		"info": [814, 824],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.621855,
+		"desc": "MouseMovement",
+		"info": [822, 825],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6309433,
+		"desc": "MouseMovement",
+		"info": [831, 826],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.638828,
+		"desc": "MouseMovement",
+		"info": [837, 830],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6457553,
+		"desc": "MouseMovement",
+		"info": [844, 832],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.654753,
+		"desc": "MouseMovement",
+		"info": [851, 835],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6628444,
+		"desc": "MouseMovement",
+		"info": [860, 838],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6697936,
+		"desc": "MouseMovement",
+		"info": [865, 838],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6788373,
+		"desc": "MouseMovement",
+		"info": [870, 842],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6868727,
+		"desc": "MouseMovement",
+		"info": [871, 842],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.6942377,
+		"desc": "MouseMovement",
+		"info": [873, 842],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.702766,
+		"desc": "MouseMovement",
+		"info": [876, 843],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7107813,
+		"desc": "MouseMovement",
+		"info": [877, 844],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7179022,
+		"desc": "MouseMovement",
+		"info": [878, 845],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7268782,
+		"desc": "MouseMovement",
+		"info": [879, 846],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7349484,
+		"desc": "MouseMovement",
+		"info": [880, 846],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7419245,
+		"desc": "MouseMovement",
+		"info": [881, 849],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7508461,
+		"desc": "MouseMovement",
+		"info": [883, 851],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7588918,
+		"desc": "MouseMovement",
+		"info": [885, 854],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7657995,
+		"desc": "MouseMovement",
+		"info": [887, 857],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7748306,
+		"desc": "MouseMovement",
+		"info": [888, 858],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7827537,
+		"desc": "MouseMovement",
+		"info": [891, 861],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.7899835,
+		"desc": "MouseMovement",
+		"info": [894, 865],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.798787,
+		"desc": "MouseMovement",
+		"info": [897, 868],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8068013,
+		"desc": "MouseMovement",
+		"info": [900, 871],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8137095,
+		"desc": "MouseMovement",
+		"info": [906, 876],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8228078,
+		"desc": "MouseMovement",
+		"info": [908, 878],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8308372,
+		"desc": "MouseMovement",
+		"info": [911, 881],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8378067,
+		"desc": "MouseMovement",
+		"info": [913, 883],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8469756,
+		"desc": "MouseMovement",
+		"info": [916, 885],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8547995,
+		"desc": "MouseMovement",
+		"info": [919, 890],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8618903,
+		"desc": "MouseMovement",
+		"info": [924, 896],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8710003,
+		"desc": "MouseMovement",
+		"info": [931, 905],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8787515,
+		"desc": "MouseMovement",
+		"info": [937, 913],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8858373,
+		"desc": "MouseMovement",
+		"info": [943, 919],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.8947797,
+		"desc": "MouseMovement",
+		"info": [948, 925],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9028635,
+		"desc": "MouseMovement",
+		"info": [957, 933],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9098454,
+		"desc": "MouseMovement",
+		"info": [963, 939],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9187737,
+		"desc": "MouseMovement",
+		"info": [971, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9268556,
+		"desc": "MouseMovement",
+		"info": [980, 950],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9337807,
+		"desc": "MouseMovement",
+		"info": [988, 955],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.942966,
+		"desc": "MouseMovement",
+		"info": [995, 959],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9507518,
+		"desc": "MouseMovement",
+		"info": [1001, 963],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.957818,
+		"desc": "MouseMovement",
+		"info": [1004, 966],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9667323,
+		"desc": "MouseMovement",
+		"info": [1004, 966],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9748018,
+		"desc": "MouseMovement",
+		"info": [1005, 966],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9820285,
+		"desc": "MouseMovement",
+		"info": [1006, 967],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9908643,
+		"desc": "MouseMovement",
+		"info": [1006, 968],
+		"dir": null
+		},
+		{
+		"ts": 1778952848.9987893,
+		"desc": "MouseMovement",
+		"info": [1006, 970],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0059044,
+		"desc": "MouseMovement",
+		"info": [1006, 973],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0147777,
+		"desc": "MouseMovement",
+		"info": [1006, 975],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.022845,
+		"desc": "MouseMovement",
+		"info": [1006, 977],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.029866,
+		"desc": "MouseMovement",
+		"info": [1006, 981],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0388796,
+		"desc": "MouseMovement",
+		"info": [1006, 986],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0468502,
+		"desc": "MouseMovement",
+		"info": [1006, 991],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0538824,
+		"desc": "MouseMovement",
+		"info": [1006, 996],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0628028,
+		"desc": "MouseMovement",
+		"info": [1006, 1005],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0708477,
+		"desc": "MouseMovement",
+		"info": [1002, 1012],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0779154,
+		"desc": "MouseMovement",
+		"info": [1000, 1018],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0868053,
+		"desc": "MouseMovement",
+		"info": [995, 1024],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.0950956,
+		"desc": "MouseMovement",
+		"info": [990, 1030],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.1020122,
+		"desc": "MouseMovement",
+		"info": [984, 1036],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.111015,
+		"desc": "MouseMovement",
+		"info": [978, 1042],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.1187975,
+		"desc": "MouseMovement",
+		"info": [972, 1048],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.1258295,
+		"desc": "MouseMovement",
+		"info": [967, 1051],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.1347344,
+		"desc": "MouseMovement",
+		"info": [964, 1053],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.142815,
+		"desc": "MouseMovement",
+		"info": [960, 1056],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.149895,
+		"desc": "MouseMovement",
+		"info": [958, 1057],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.158898,
+		"desc": "MouseMovement",
+		"info": [956, 1059],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.1668756,
+		"desc": "MouseMovement",
+		"info": [955, 1060],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.174139,
+		"desc": "MouseMovement",
+		"info": [954, 1060],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.1829486,
+		"desc": "MouseMovement",
+		"info": [953, 1060],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.1982431,
+		"desc": "MouseMovement",
+		"info": [953, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.206991,
+		"desc": "MouseMovement",
+		"info": [952, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.297706,
+		"desc": "MouseMovement",
+		"info": [951, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.3026485,
+		"desc": "MouseMovement",
+		"info": [951, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.309965,
+		"desc": "MouseMovement",
+		"info": [950, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.3181357,
+		"desc": "MouseMovement",
+		"info": [949, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.325261,
+		"desc": "MouseMovement",
+		"info": [949, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.3339293,
+		"desc": "MouseMovement",
+		"info": [947, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.3421884,
+		"desc": "MouseMovement",
+		"info": [945, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.3488202,
+		"desc": "MouseMovement",
+		"info": [945, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.358236,
+		"desc": "MouseMovement",
+		"info": [943, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.3657775,
+		"desc": "MouseMovement",
+		"info": [943, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.381931,
+		"desc": "MouseMovement",
+		"info": [942, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.43717,
+		"desc": "MousePressedLeft",
+		"info": [942, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.4851925,
+		"desc": "MouseReleasedLeft",
+		"info": [942, 1061],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.682349,
+		"desc": "MouseMovement",
+		"info": [942, 1059],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.689142,
+		"desc": "MouseMovement",
+		"info": [942, 1059],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.6972513,
+		"desc": "MouseMovement",
+		"info": [942, 1057],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.7128892,
+		"desc": "MouseMovement",
+		"info": [942, 1056],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.721058,
+		"desc": "MouseMovement",
+		"info": [942, 1056],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.7333393,
+		"desc": "MouseMovement",
+		"info": [942, 1055],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.7368379,
+		"desc": "MouseMovement",
+		"info": [942, 1053],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.7449222,
+		"desc": "MouseMovement",
+		"info": [942, 1053],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.754,
+		"desc": "MouseMovement",
+		"info": [943, 1052],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.760922,
+		"desc": "MouseMovement",
+		"info": [943, 1051],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.7690647,
+		"desc": "MouseMovement",
+		"info": [943, 1050],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.7779741,
+		"desc": "MouseMovement",
+		"info": [944, 1049],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.785024,
+		"desc": "MouseMovement",
+		"info": [945, 1047],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.7938497,
+		"desc": "MouseMovement",
+		"info": [945, 1046],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8020515,
+		"desc": "MouseMovement",
+		"info": [945, 1045],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8089325,
+		"desc": "MouseMovement",
+		"info": [946, 1043],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8169825,
+		"desc": "MouseMovement",
+		"info": [946, 1041],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8259602,
+		"desc": "MouseMovement",
+		"info": [947, 1038],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.833147,
+		"desc": "MouseMovement",
+		"info": [947, 1034],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8408034,
+		"desc": "MouseMovement",
+		"info": [948, 1029],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8498268,
+		"desc": "MouseMovement",
+		"info": [948, 1024],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8571844,
+		"desc": "MouseMovement",
+		"info": [948, 1012],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8649795,
+		"desc": "MouseMovement",
+		"info": [948, 997],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8740954,
+		"desc": "MouseMovement",
+		"info": [947, 985],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8812897,
+		"desc": "MouseMovement",
+		"info": [939, 968],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8890269,
+		"desc": "MouseMovement",
+		"info": [935, 954],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.8980842,
+		"desc": "MouseMovement",
+		"info": [929, 934],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9050133,
+		"desc": "MouseMovement",
+		"info": [924, 920],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9129553,
+		"desc": "MouseMovement",
+		"info": [912, 900],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9218106,
+		"desc": "MouseMovement",
+		"info": [904, 886],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.928872,
+		"desc": "MouseMovement",
+		"info": [889, 864],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9369373,
+		"desc": "MouseMovement",
+		"info": [877, 849],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9458482,
+		"desc": "MouseMovement",
+		"info": [854, 824],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9531977,
+		"desc": "MouseMovement",
+		"info": [838, 808],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9610584,
+		"desc": "MouseMovement",
+		"info": [818, 788],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9698548,
+		"desc": "MouseMovement",
+		"info": [803, 775],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9770596,
+		"desc": "MouseMovement",
+		"info": [788, 763],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9850519,
+		"desc": "MouseMovement",
+		"info": [779, 755],
+		"dir": null
+		},
+		{
+		"ts": 1778952849.9937997,
+		"desc": "MouseMovement",
+		"info": [770, 747],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.000813,
+		"desc": "MouseMovement",
+		"info": [765, 744],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0089493,
+		"desc": "MouseMovement",
+		"info": [760, 738],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0178263,
+		"desc": "MouseMovement",
+		"info": [756, 733],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.024967,
+		"desc": "MouseMovement",
+		"info": [751, 729],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0330215,
+		"desc": "MouseMovement",
+		"info": [747, 725],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.041856,
+		"desc": "MouseMovement",
+		"info": [743, 721],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0488741,
+		"desc": "MouseMovement",
+		"info": [735, 714],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0569825,
+		"desc": "MouseMovement",
+		"info": [727, 708],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0658321,
+		"desc": "MouseMovement",
+		"info": [720, 703],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0728269,
+		"desc": "MouseMovement",
+		"info": [712, 697],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0811641,
+		"desc": "MouseMovement",
+		"info": [707, 691],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.0902545,
+		"desc": "MouseMovement",
+		"info": [703, 686],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.097125,
+		"desc": "MouseMovement",
+		"info": [699, 684],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.1049976,
+		"desc": "MouseMovement",
+		"info": [693, 681],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.1139245,
+		"desc": "MouseMovement",
+		"info": [691, 680],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.1209826,
+		"desc": "MouseMovement",
+		"info": [690, 679],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.1288035,
+		"desc": "MouseMovement",
+		"info": [690, 679],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.1714041,
+		"desc": "MouseScroll",
+		"info": [690, 679],
+		"dir": -1
+		},
+		{
+		"ts": 1778952850.176898,
+		"desc": "MouseMovement",
+		"info": [689, 679],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.1929498,
+		"desc": "MouseMovement",
+		"info": [688, 678],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.1978974,
+		"desc": "MouseScroll",
+		"info": [688, 678],
+		"dir": -1
+		},
+		{
+		"ts": 1778952850.2332938,
+		"desc": "MouseScroll",
+		"info": [688, 678],
+		"dir": -1
+		},
+		{
+		"ts": 1778952850.2764626,
+		"desc": "MouseMovement",
+		"info": [687, 678],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.2882156,
+		"desc": "MouseScroll",
+		"info": [687, 678],
+		"dir": -1
+		},
+		{
+		"ts": 1778952850.2958946,
+		"desc": "MouseMovement",
+		"info": [687, 678],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.3439474,
+		"desc": "MouseMovement",
+		"info": [687, 677],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.3518894,
+		"desc": "MouseMovement",
+		"info": [687, 676],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.3677578,
+		"desc": "MouseMovement",
+		"info": [687, 675],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.6437395,
+		"desc": "MouseMovement",
+		"info": [687, 675],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.691961,
+		"desc": "MouseMovement",
+		"info": [687, 675],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.698827,
+		"desc": "MouseMovement",
+		"info": [686, 675],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.7148566,
+		"desc": "MouseMovement",
+		"info": [684, 674],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.7226846,
+		"desc": "MouseMovement",
+		"info": [684, 674],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.7303262,
+		"desc": "MouseMovement",
+		"info": [682, 673],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.7388391,
+		"desc": "MouseMovement",
+		"info": [677, 672],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.7469032,
+		"desc": "MouseMovement",
+		"info": [667, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.753702,
+		"desc": "MouseMovement",
+		"info": [660, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.762936,
+		"desc": "MouseMovement",
+		"info": [656, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.7715042,
+		"desc": "MouseMovement",
+		"info": [653, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.7777681,
+		"desc": "MouseMovement",
+		"info": [649, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.786766,
+		"desc": "MouseMovement",
+		"info": [647, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.7899344,
+		"desc": "MouseScroll",
+		"info": [647, 671],
+		"dir": -1
+		},
+		{
+		"ts": 1778952850.7948186,
+		"desc": "MouseMovement",
+		"info": [646, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.8019001,
+		"desc": "MouseMovement",
+		"info": [645, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952850.8190365,
+		"desc": "MouseScroll",
+		"info": [645, 671],
+		"dir": -1
+		},
+		{
+		"ts": 1778952851.1612508,
+		"desc": "MouseMovement",
+		"info": [644, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.172794,
+		"desc": "MouseMovement",
+		"info": [643, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.181188,
+		"desc": "MouseMovement",
+		"info": [642, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.1888645,
+		"desc": "MouseMovement",
+		"info": [641, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.1967895,
+		"desc": "MouseMovement",
+		"info": [640, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2046516,
+		"desc": "MouseMovement",
+		"info": [638, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2127645,
+		"desc": "MouseMovement",
+		"info": [631, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2208695,
+		"desc": "MouseMovement",
+		"info": [620, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2289603,
+		"desc": "MouseMovement",
+		"info": [607, 671],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2368317,
+		"desc": "MouseMovement",
+		"info": [582, 669],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2450178,
+		"desc": "MouseMovement",
+		"info": [537, 667],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2528858,
+		"desc": "MouseMovement",
+		"info": [498, 663],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2608438,
+		"desc": "MouseMovement",
+		"info": [452, 654],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2690027,
+		"desc": "MouseMovement",
+		"info": [397, 652],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2769365,
+		"desc": "MouseMovement",
+		"info": [331, 642],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2850244,
+		"desc": "MouseMovement",
+		"info": [275, 635],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.2928908,
+		"desc": "MouseMovement",
+		"info": [199, 625],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.3009844,
+		"desc": "MouseMovement",
+		"info": [154, 621],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.3089633,
+		"desc": "MouseMovement",
+		"info": [103, 621],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.3171525,
+		"desc": "MouseMovement",
+		"info": [86, 618],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.3251913,
+		"desc": "MouseMovement",
+		"info": [73, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.332897,
+		"desc": "MouseMovement",
+		"info": [69, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.340973,
+		"desc": "MouseMovement",
+		"info": [67, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.5452163,
+		"desc": "MouseMovement",
+		"info": [67, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.560994,
+		"desc": "MouseMovement",
+		"info": [69, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.568881,
+		"desc": "MouseMovement",
+		"info": [69, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.5780838,
+		"desc": "MouseMovement",
+		"info": [71, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.5849137,
+		"desc": "MouseMovement",
+		"info": [71, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.592978,
+		"desc": "MouseMovement",
+		"info": [74, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6021137,
+		"desc": "MouseMovement",
+		"info": [79, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.60895,
+		"desc": "MouseMovement",
+		"info": [84, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6168156,
+		"desc": "MouseMovement",
+		"info": [92, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6259723,
+		"desc": "MouseMovement",
+		"info": [101, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6329787,
+		"desc": "MouseMovement",
+		"info": [114, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6415615,
+		"desc": "MouseMovement",
+		"info": [124, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.649938,
+		"desc": "MouseMovement",
+		"info": [138, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6570823,
+		"desc": "MouseMovement",
+		"info": [146, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6649294,
+		"desc": "MouseMovement",
+		"info": [156, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6742313,
+		"desc": "MouseMovement",
+		"info": [163, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.680898,
+		"desc": "MouseMovement",
+		"info": [174, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.689159,
+		"desc": "MouseMovement",
+		"info": [185, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.6979382,
+		"desc": "MouseMovement",
+		"info": [196, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.7048936,
+		"desc": "MouseMovement",
+		"info": [203, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.7130172,
+		"desc": "MouseMovement",
+		"info": [213, 615],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.721959,
+		"desc": "MouseMovement",
+		"info": [220, 614],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.7289133,
+		"desc": "MouseMovement",
+		"info": [228, 612],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.737007,
+		"desc": "MouseMovement",
+		"info": [232, 610],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.746071,
+		"desc": "MouseMovement",
+		"info": [237, 607],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.7529764,
+		"desc": "MouseMovement",
+		"info": [243, 604],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.761027,
+		"desc": "MouseMovement",
+		"info": [248, 598],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.7698786,
+		"desc": "MouseMovement",
+		"info": [253, 590],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.7770438,
+		"desc": "MouseMovement",
+		"info": [257, 583],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.7848036,
+		"desc": "MouseMovement",
+		"info": [259, 577],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.7939727,
+		"desc": "MouseMovement",
+		"info": [260, 569],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8008022,
+		"desc": "MouseMovement",
+		"info": [260, 562],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8090963,
+		"desc": "MouseMovement",
+		"info": [260, 552],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.817834,
+		"desc": "MouseMovement",
+		"info": [260, 543],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8251095,
+		"desc": "MouseMovement",
+		"info": [257, 531],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8328128,
+		"desc": "MouseMovement",
+		"info": [253, 521],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8420594,
+		"desc": "MouseMovement",
+		"info": [249, 509],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8487334,
+		"desc": "MouseMovement",
+		"info": [245, 497],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8570933,
+		"desc": "MouseMovement",
+		"info": [240, 484],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8659387,
+		"desc": "MouseMovement",
+		"info": [236, 474],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.873054,
+		"desc": "MouseMovement",
+		"info": [234, 468],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8809376,
+		"desc": "MouseMovement",
+		"info": [233, 464],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.8900237,
+		"desc": "MouseMovement",
+		"info": [232, 463],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.896828,
+		"desc": "MouseMovement",
+		"info": [231, 460],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.9049644,
+		"desc": "MouseMovement",
+		"info": [231, 459],
+		"dir": null
+		},
+		{
+		"ts": 1778952851.9138587,
+		"desc": "MouseMovement",
+		"info": [230, 459],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.0103333,
+		"desc": "MouseMovement",
+		"info": [229, 459],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.015804,
+		"desc": "MouseMovement",
+		"info": [229, 459],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.023875,
+		"desc": "MouseMovement",
+		"info": [227, 459],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.0331094,
+		"desc": "MouseMovement",
+		"info": [226, 459],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.0398195,
+		"desc": "MouseMovement",
+		"info": [225, 459],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.6702404,
+		"desc": "MouseMovement",
+		"info": [225, 457],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.677195,
+		"desc": "MouseMovement",
+		"info": [227, 455],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.6851292,
+		"desc": "MouseMovement",
+		"info": [227, 454],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.693953,
+		"desc": "MouseMovement",
+		"info": [228, 454],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.7009528,
+		"desc": "MouseMovement",
+		"info": [229, 454],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.708909,
+		"desc": "MouseMovement",
+		"info": [230, 454],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.7179515,
+		"desc": "MouseMovement",
+		"info": [231, 453],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.7249286,
+		"desc": "MouseMovement",
+		"info": [232, 452],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.742081,
+		"desc": "MouseMovement",
+		"info": [232, 452],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.7572777,
+		"desc": "MouseMovement",
+		"info": [233, 452],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.8236241,
+		"desc": "MouseMovement",
+		"info": [233, 452],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.840638,
+		"desc": "MouseScroll",
+		"info": [233, 452],
+		"dir": 1
+		},
+		{
+		"ts": 1778952852.864113,
+		"desc": "MouseMovement",
+		"info": [235, 451],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.8698602,
+		"desc": "MouseScroll",
+		"info": [235, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952852.8850443,
+		"desc": "MouseMovement",
+		"info": [235, 451],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.8879313,
+		"desc": "MouseScroll",
+		"info": [235, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952852.8920822,
+		"desc": "MouseMovement",
+		"info": [236, 451],
+		"dir": null
+		},
+		{
+		"ts": 1778952852.9099662,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952852.9344902,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952852.9754272,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952853.2461655,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952853.2636168,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952853.2872186,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952853.3170767,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952853.3411167,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952853.3820996,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952854.0367186,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": 1
+		},
+		{
+		"ts": 1778952854.510129,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": -1
+		},
+		{
+		"ts": 1778952854.534074,
+		"desc": "MouseScroll",
+		"info": [236, 451],
+		"dir": -1
+		},
+		{
+		"ts": 1778952854.7929149,
+		"desc": "MouseMovement",
+		"info": [235, 452],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.7986023,
+		"desc": "MouseMovement",
+		"info": [235, 453],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.8070984,
+		"desc": "MouseMovement",
+		"info": [232, 455],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.8148997,
+		"desc": "MouseMovement",
+		"info": [231, 456],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.8219497,
+		"desc": "MouseMovement",
+		"info": [230, 459],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.831221,
+		"desc": "MouseMovement",
+		"info": [229, 462],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.8399138,
+		"desc": "MouseMovement",
+		"info": [226, 466],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.847007,
+		"desc": "MouseMovement",
+		"info": [223, 470],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.8539565,
+		"desc": "MouseMovement",
+		"info": [222, 473],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.861862,
+		"desc": "MouseMovement",
+		"info": [221, 477],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.8710525,
+		"desc": "MouseMovement",
+		"info": [218, 486],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.8779702,
+		"desc": "MouseMovement",
+		"info": [218, 492],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.8860838,
+		"desc": "MouseMovement",
+		"info": [218, 502],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.894937,
+		"desc": "MouseMovement",
+		"info": [218, 512],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9021814,
+		"desc": "MouseMovement",
+		"info": [218, 521],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9099638,
+		"desc": "MouseMovement",
+		"info": [218, 529],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.918904,
+		"desc": "MouseMovement",
+		"info": [217, 536],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.925898,
+		"desc": "MouseMovement",
+		"info": [215, 542],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9338782,
+		"desc": "MouseMovement",
+		"info": [211, 549],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9429746,
+		"desc": "MouseMovement",
+		"info": [208, 555],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9500084,
+		"desc": "MouseMovement",
+		"info": [205, 559],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9579048,
+		"desc": "MouseMovement",
+		"info": [201, 562],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9667423,
+		"desc": "MouseMovement",
+		"info": [199, 565],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9738138,
+		"desc": "MouseMovement",
+		"info": [198, 566],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9818103,
+		"desc": "MouseMovement",
+		"info": [196, 567],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.9907901,
+		"desc": "MouseMovement",
+		"info": [194, 569],
+		"dir": null
+		},
+		{
+		"ts": 1778952854.997981,
+		"desc": "MouseMovement",
+		"info": [193, 569],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0059304,
+		"desc": "MouseMovement",
+		"info": [193, 570],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0147042,
+		"desc": "MouseMovement",
+		"info": [193, 571],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0217981,
+		"desc": "MouseMovement",
+		"info": [193, 572],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0388432,
+		"desc": "MouseMovement",
+		"info": [192, 572],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0462453,
+		"desc": "MouseMovement",
+		"info": [191, 574],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0536468,
+		"desc": "MouseMovement",
+		"info": [190, 576],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0630138,
+		"desc": "MouseMovement",
+		"info": [190, 576],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.070223,
+		"desc": "MouseMovement",
+		"info": [189, 578],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0781248,
+		"desc": "MouseMovement",
+		"info": [188, 580],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.0869844,
+		"desc": "MouseMovement",
+		"info": [187, 580],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.094273,
+		"desc": "MouseMovement",
+		"info": [186, 582],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.102363,
+		"desc": "MouseMovement",
+		"info": [186, 583],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1109817,
+		"desc": "MouseMovement",
+		"info": [186, 584],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1177495,
+		"desc": "MouseMovement",
+		"info": [185, 586],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1263967,
+		"desc": "MouseMovement",
+		"info": [185, 587],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.134946,
+		"desc": "MouseMovement",
+		"info": [185, 589],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1421583,
+		"desc": "MouseMovement",
+		"info": [185, 592],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1499019,
+		"desc": "MouseMovement",
+		"info": [185, 593],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1589158,
+		"desc": "MouseMovement",
+		"info": [185, 596],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1657968,
+		"desc": "MouseMovement",
+		"info": [185, 598],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1743214,
+		"desc": "MouseMovement",
+		"info": [185, 599],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1830318,
+		"desc": "MouseMovement",
+		"info": [185, 600],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.1900508,
+		"desc": "MouseMovement",
+		"info": [185, 601],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.198002,
+		"desc": "MouseMovement",
+		"info": [185, 601],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.2070687,
+		"desc": "MouseMovement",
+		"info": [186, 601],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.3028123,
+		"desc": "MouseMovement",
+		"info": [186, 601],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.3090677,
+		"desc": "MouseMovement",
+		"info": [186, 601],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.3168921,
+		"desc": "MouseMovement",
+		"info": [186, 599],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.325063,
+		"desc": "MouseMovement",
+		"info": [186, 597],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.3328006,
+		"desc": "MouseMovement",
+		"info": [186, 594],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.3410602,
+		"desc": "MouseMovement",
+		"info": [186, 590],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.348992,
+		"desc": "MouseMovement",
+		"info": [186, 587],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.3568933,
+		"desc": "MouseMovement",
+		"info": [185, 584],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.365085,
+		"desc": "MouseMovement",
+		"info": [184, 580],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.3731031,
+		"desc": "MouseMovement",
+		"info": [183, 576],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.3812344,
+		"desc": "MouseMovement",
+		"info": [183, 571],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.38875,
+		"desc": "MouseMovement",
+		"info": [182, 568],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.397128,
+		"desc": "MouseMovement",
+		"info": [181, 565],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4047558,
+		"desc": "MouseMovement",
+		"info": [181, 562],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4131324,
+		"desc": "MouseMovement",
+		"info": [179, 559],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4209156,
+		"desc": "MouseMovement",
+		"info": [178, 556],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4289343,
+		"desc": "MouseMovement",
+		"info": [176, 553],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4369254,
+		"desc": "MouseMovement",
+		"info": [175, 551],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4448946,
+		"desc": "MouseMovement",
+		"info": [173, 549],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4528623,
+		"desc": "MouseMovement",
+		"info": [172, 547],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.460962,
+		"desc": "MouseMovement",
+		"info": [172, 545],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4690056,
+		"desc": "MouseMovement",
+		"info": [170, 544],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4768994,
+		"desc": "MouseMovement",
+		"info": [169, 542],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.4849072,
+		"desc": "MouseMovement",
+		"info": [168, 541],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.493925,
+		"desc": "MouseMovement",
+		"info": [167, 540],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5008636,
+		"desc": "MouseMovement",
+		"info": [167, 539],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5088544,
+		"desc": "MouseMovement",
+		"info": [167, 538],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5180283,
+		"desc": "MouseMovement",
+		"info": [165, 537],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5248382,
+		"desc": "MouseMovement",
+		"info": [164, 536],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5328848,
+		"desc": "MouseMovement",
+		"info": [164, 535],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.549615,
+		"desc": "MouseMovement",
+		"info": [164, 535],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5571954,
+		"desc": "MouseMovement",
+		"info": [163, 534],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5661893,
+		"desc": "MouseMovement",
+		"info": [162, 533],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5737097,
+		"desc": "MouseMovement",
+		"info": [162, 532],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5810506,
+		"desc": "MouseMovement",
+		"info": [162, 531],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5903158,
+		"desc": "MouseMovement",
+		"info": [162, 530],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.5971725,
+		"desc": "MouseMovement",
+		"info": [162, 529],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.6051273,
+		"desc": "MouseMovement",
+		"info": [162, 529],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.6140623,
+		"desc": "MouseMovement",
+		"info": [162, 528],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.6212306,
+		"desc": "MouseMovement",
+		"info": [162, 527],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.629013,
+		"desc": "MouseMovement",
+		"info": [162, 527],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.6378222,
+		"desc": "MouseMovement",
+		"info": [162, 526],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.653071,
+		"desc": "MouseMovement",
+		"info": [162, 524],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.6621544,
+		"desc": "MouseMovement",
+		"info": [162, 524],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.6849158,
+		"desc": "MouseMovement",
+		"info": [162, 523],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.7013612,
+		"desc": "MouseMovement",
+		"info": [162, 522],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.7169034,
+		"desc": "MouseMovement",
+		"info": [162, 522],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.733125,
+		"desc": "MouseMovement",
+		"info": [163, 522],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.74885,
+		"desc": "MouseMovement",
+		"info": [163, 521],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.7853658,
+		"desc": "MouseMovement",
+		"info": [164, 521],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.7975626,
+		"desc": "MouseMovement",
+		"info": [165, 520],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.8123398,
+		"desc": "MouseMovement",
+		"info": [165, 520],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.829745,
+		"desc": "MouseMovement",
+		"info": [166, 520],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.8359413,
+		"desc": "MouseMovement",
+		"info": [167, 520],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.8450322,
+		"desc": "MouseMovement",
+		"info": [168, 519],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.8528845,
+		"desc": "MouseMovement",
+		"info": [168, 519],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.8598304,
+		"desc": "MouseMovement",
+		"info": [169, 519],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.8689642,
+		"desc": "MouseMovement",
+		"info": [170, 519],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.8845594,
+		"desc": "MouseMovement",
+		"info": [170, 519],
+		"dir": null
+		},
+		{
+		"ts": 1778952855.9989216,
+		"desc": "MousePressedLeft",
+		"info": [170, 519],
+		"dir": null
+		},
+		{
+		"ts": 1778952856.0529792,
+		"desc": "MouseReleasedLeft",
+		"info": [170, 519],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.6309967,
+		"desc": "MouseMovement",
+		"info": [175, 522],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.6371064,
+		"desc": "MouseMovement",
+		"info": [181, 526],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.6444826,
+		"desc": "MouseMovement",
+		"info": [187, 531],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.6522157,
+		"desc": "MouseMovement",
+		"info": [195, 538],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.6608694,
+		"desc": "MouseMovement",
+		"info": [206, 547],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.6678326,
+		"desc": "MouseMovement",
+		"info": [218, 558],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.676056,
+		"desc": "MouseMovement",
+		"info": [229, 568],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.6848915,
+		"desc": "MouseMovement",
+		"info": [242, 578],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.691919,
+		"desc": "MouseMovement",
+		"info": [254, 586],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.699864,
+		"desc": "MouseMovement",
+		"info": [266, 593],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7089763,
+		"desc": "MouseMovement",
+		"info": [279, 601],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.71584,
+		"desc": "MouseMovement",
+		"info": [291, 609],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.723841,
+		"desc": "MouseMovement",
+		"info": [303, 613],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7328072,
+		"desc": "MouseMovement",
+		"info": [314, 617],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7398086,
+		"desc": "MouseMovement",
+		"info": [323, 621],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7479827,
+		"desc": "MouseMovement",
+		"info": [335, 622],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7567818,
+		"desc": "MouseMovement",
+		"info": [343, 626],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7643173,
+		"desc": "MouseMovement",
+		"info": [351, 631],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7718563,
+		"desc": "MouseMovement",
+		"info": [357, 636],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7811189,
+		"desc": "MouseMovement",
+		"info": [365, 642],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7877805,
+		"desc": "MouseMovement",
+		"info": [374, 646],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.7958438,
+		"desc": "MouseMovement",
+		"info": [383, 651],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.804714,
+		"desc": "MouseMovement",
+		"info": [393, 659],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8119264,
+		"desc": "MouseMovement",
+		"info": [404, 666],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8197808,
+		"desc": "MouseMovement",
+		"info": [417, 674],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8289857,
+		"desc": "MouseMovement",
+		"info": [429, 683],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8357744,
+		"desc": "MouseMovement",
+		"info": [448, 697],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8438134,
+		"desc": "MouseMovement",
+		"info": [477, 708],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8530161,
+		"desc": "MouseMovement",
+		"info": [497, 720],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.859925,
+		"desc": "MouseMovement",
+		"info": [510, 728],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8683016,
+		"desc": "MouseMovement",
+		"info": [524, 735],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8767009,
+		"desc": "MouseMovement",
+		"info": [535, 739],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8837063,
+		"desc": "MouseMovement",
+		"info": [544, 744],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.8917966,
+		"desc": "MouseMovement",
+		"info": [555, 751],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9007747,
+		"desc": "MouseMovement",
+		"info": [567, 762],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9078708,
+		"desc": "MouseMovement",
+		"info": [578, 769],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9157646,
+		"desc": "MouseMovement",
+		"info": [586, 775],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9249966,
+		"desc": "MouseMovement",
+		"info": [590, 779],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9317553,
+		"desc": "MouseMovement",
+		"info": [597, 782],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9397612,
+		"desc": "MouseMovement",
+		"info": [601, 784],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9489005,
+		"desc": "MouseMovement",
+		"info": [607, 789],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9558842,
+		"desc": "MouseMovement",
+		"info": [612, 794],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.963996,
+		"desc": "MouseMovement",
+		"info": [616, 797],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9730778,
+		"desc": "MouseMovement",
+		"info": [622, 801],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9798148,
+		"desc": "MouseMovement",
+		"info": [625, 803],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9877508,
+		"desc": "MouseMovement",
+		"info": [628, 805],
+		"dir": null
+		},
+		{
+		"ts": 1778952857.9969049,
+		"desc": "MouseMovement",
+		"info": [631, 808],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.003871,
+		"desc": "MouseMovement",
+		"info": [633, 810],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.0120718,
+		"desc": "MouseMovement",
+		"info": [637, 813],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.0210757,
+		"desc": "MouseMovement",
+		"info": [639, 815],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.0280108,
+		"desc": "MouseMovement",
+		"info": [642, 818],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.036026,
+		"desc": "MouseMovement",
+		"info": [645, 820],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.044954,
+		"desc": "MouseMovement",
+		"info": [652, 824],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.0518644,
+		"desc": "MouseMovement",
+		"info": [658, 828],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.0601025,
+		"desc": "MouseMovement",
+		"info": [665, 831],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.0689144,
+		"desc": "MouseMovement",
+		"info": [677, 837],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.076005,
+		"desc": "MouseMovement",
+		"info": [689, 841],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.083952,
+		"desc": "MouseMovement",
+		"info": [700, 846],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.0928912,
+		"desc": "MouseMovement",
+		"info": [714, 852],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.1000676,
+		"desc": "MouseMovement",
+		"info": [724, 854],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.1083198,
+		"desc": "MouseMovement",
+		"info": [730, 856],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.1167748,
+		"desc": "MouseMovement",
+		"info": [735, 858],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.124101,
+		"desc": "MouseMovement",
+		"info": [738, 858],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.132079,
+		"desc": "MouseMovement",
+		"info": [739, 858],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.2464354,
+		"desc": "MouseMovement",
+		"info": [740, 858],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.3303623,
+		"desc": "MouseMovement",
+		"info": [741, 858],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.3371627,
+		"desc": "MouseMovement",
+		"info": [742, 858],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.5770264,
+		"desc": "MouseMovement",
+		"info": [743, 858],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.5821385,
+		"desc": "MouseMovement",
+		"info": [746, 860],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.589824,
+		"desc": "MouseMovement",
+		"info": [751, 862],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.5972083,
+		"desc": "MouseMovement",
+		"info": [760, 867],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.605691,
+		"desc": "MouseMovement",
+		"info": [771, 873],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6131153,
+		"desc": "MouseMovement",
+		"info": [785, 881],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6208053,
+		"desc": "MouseMovement",
+		"info": [796, 888],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6301224,
+		"desc": "MouseMovement",
+		"info": [803, 892],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6375308,
+		"desc": "MouseMovement",
+		"info": [807, 894],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6448667,
+		"desc": "MouseMovement",
+		"info": [815, 899],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6539848,
+		"desc": "MouseMovement",
+		"info": [822, 902],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6611435,
+		"desc": "MouseMovement",
+		"info": [828, 907],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6691318,
+		"desc": "MouseMovement",
+		"info": [834, 911],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.678102,
+		"desc": "MouseMovement",
+		"info": [836, 913],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6852648,
+		"desc": "MouseMovement",
+		"info": [838, 915],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.6927762,
+		"desc": "MouseMovement",
+		"info": [838, 917],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.702095,
+		"desc": "MouseMovement",
+		"info": [839, 918],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.7088988,
+		"desc": "MouseMovement",
+		"info": [839, 919],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.716929,
+		"desc": "MouseMovement",
+		"info": [839, 920],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.7261662,
+		"desc": "MouseMovement",
+		"info": [839, 921],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.7329447,
+		"desc": "MouseMovement",
+		"info": [839, 921],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.7410014,
+		"desc": "MouseMovement",
+		"info": [839, 923],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.749997,
+		"desc": "MouseMovement",
+		"info": [839, 924],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.7570674,
+		"desc": "MouseMovement",
+		"info": [839, 924],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.764981,
+		"desc": "MouseMovement",
+		"info": [839, 925],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.7737868,
+		"desc": "MouseMovement",
+		"info": [839, 926],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.780946,
+		"desc": "MouseMovement",
+		"info": [839, 927],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.7981122,
+		"desc": "MouseMovement",
+		"info": [839, 928],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.8050797,
+		"desc": "MouseMovement",
+		"info": [839, 929],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.8130279,
+		"desc": "MouseMovement",
+		"info": [839, 929],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.8225844,
+		"desc": "MouseMovement",
+		"info": [839, 929],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.8291428,
+		"desc": "MouseMovement",
+		"info": [839, 930],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.853615,
+		"desc": "MouseMovement",
+		"info": [839, 931],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.8631947,
+		"desc": "MouseMovement",
+		"info": [839, 931],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.8694491,
+		"desc": "MouseMovement",
+		"info": [839, 933],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.877378,
+		"desc": "MouseMovement",
+		"info": [839, 934],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.8861766,
+		"desc": "MouseMovement",
+		"info": [839, 935],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.8929396,
+		"desc": "MouseMovement",
+		"info": [839, 937],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.9099627,
+		"desc": "MouseMovement",
+		"info": [840, 938],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.917083,
+		"desc": "MouseMovement",
+		"info": [842, 940],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.9249961,
+		"desc": "MouseMovement",
+		"info": [842, 941],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.9340482,
+		"desc": "MouseMovement",
+		"info": [842, 941],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.9407597,
+		"desc": "MouseMovement",
+		"info": [842, 942],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.94888,
+		"desc": "MouseMovement",
+		"info": [842, 942],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.9581804,
+		"desc": "MouseMovement",
+		"info": [843, 943],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.9648674,
+		"desc": "MouseMovement",
+		"info": [843, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.9730175,
+		"desc": "MouseMovement",
+		"info": [844, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952858.9887185,
+		"desc": "MouseMovement",
+		"info": [845, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.0434616,
+		"desc": "MousePressedLeft",
+		"info": [845, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.0969512,
+		"desc": "MouseDrag",
+		"info": [845, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.100963,
+		"desc": "MouseReleasedLeft",
+		"info": [845, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.4671893,
+		"desc": "MousePressedLeft",
+		"info": [845, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.5322747,
+		"desc": "MouseReleasedLeft",
+		"info": [845, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.683056,
+		"desc": "MouseMovement",
+		"info": [846, 944],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.6910024,
+		"desc": "MouseMovement",
+		"info": [848, 945],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7070136,
+		"desc": "MouseMovement",
+		"info": [849, 946],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7148883,
+		"desc": "MouseMovement",
+		"info": [850, 946],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7217946,
+		"desc": "MouseMovement",
+		"info": [851, 947],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.730837,
+		"desc": "MouseMovement",
+		"info": [853, 948],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7389262,
+		"desc": "MouseMovement",
+		"info": [854, 948],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7459714,
+		"desc": "MouseMovement",
+		"info": [855, 949],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7548382,
+		"desc": "MouseMovement",
+		"info": [856, 951],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7629914,
+		"desc": "MouseMovement",
+		"info": [858, 951],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7699013,
+		"desc": "MouseMovement",
+		"info": [860, 952],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7790139,
+		"desc": "MouseMovement",
+		"info": [861, 954],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7869403,
+		"desc": "MouseMovement",
+		"info": [863, 956],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.7940893,
+		"desc": "MouseMovement",
+		"info": [866, 958],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.8028178,
+		"desc": "MouseMovement",
+		"info": [867, 959],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.8108175,
+		"desc": "MouseMovement",
+		"info": [868, 959],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.8182573,
+		"desc": "MouseMovement",
+		"info": [868, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.9380298,
+		"desc": "MouseMovement",
+		"info": [868, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.9450662,
+		"desc": "MouseMovement",
+		"info": [866, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.9518902,
+		"desc": "MouseMovement",
+		"info": [865, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.96112,
+		"desc": "MouseMovement",
+		"info": [864, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.9688437,
+		"desc": "MouseMovement",
+		"info": [863, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.9759593,
+		"desc": "MouseMovement",
+		"info": [862, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.9849513,
+		"desc": "MouseMovement",
+		"info": [861, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.9927533,
+		"desc": "MouseMovement",
+		"info": [860, 960],
+		"dir": null
+		},
+		{
+		"ts": 1778952859.999758,
+		"desc": "MouseMovement",
+		"info": [859, 959],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.0168474,
+		"desc": "MouseMovement",
+		"info": [858, 958],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.0240734,
+		"desc": "MouseMovement",
+		"info": [857, 957],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.0327933,
+		"desc": "MouseMovement",
+		"info": [856, 957],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.0410814,
+		"desc": "MouseMovement",
+		"info": [855, 956],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.0569983,
+		"desc": "MouseMovement",
+		"info": [854, 955],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.071949,
+		"desc": "MouseMovement",
+		"info": [853, 954],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.088931,
+		"desc": "MouseMovement",
+		"info": [853, 954],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.0961607,
+		"desc": "MouseMovement",
+		"info": [853, 953],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.1799407,
+		"desc": "MousePressedLeft",
+		"info": [853, 953],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.22322,
+		"desc": "MouseReleasedLeft",
+		"info": [853, 953],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.8890123,
+		"desc": "MouseMovement",
+		"info": [853, 952],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.8914628,
+		"desc": "MouseMovement",
+		"info": [852, 949],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9000392,
+		"desc": "MouseMovement",
+		"info": [852, 946],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9077554,
+		"desc": "MouseMovement",
+		"info": [852, 943],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9152684,
+		"desc": "MouseMovement",
+		"info": [851, 938],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9238396,
+		"desc": "MouseMovement",
+		"info": [851, 930],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9322236,
+		"desc": "MouseMovement",
+		"info": [851, 920],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9391987,
+		"desc": "MouseMovement",
+		"info": [851, 911],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9479668,
+		"desc": "MouseMovement",
+		"info": [852, 901],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9557638,
+		"desc": "MouseMovement",
+		"info": [855, 888],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.963036,
+		"desc": "MouseMovement",
+		"info": [866, 867],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9720874,
+		"desc": "MouseMovement",
+		"info": [881, 840],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.980006,
+		"desc": "MouseMovement",
+		"info": [901, 813],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.986984,
+		"desc": "MouseMovement",
+		"info": [924, 779],
+		"dir": null
+		},
+		{
+		"ts": 1778952860.9959924,
+		"desc": "MouseMovement",
+		"info": [951, 741],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0038192,
+		"desc": "MouseMovement",
+		"info": [981, 700],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.011013,
+		"desc": "MouseMovement",
+		"info": [1019, 655],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0198865,
+		"desc": "MouseMovement",
+		"info": [1068, 608],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0286987,
+		"desc": "MouseMovement",
+		"info": [1117, 564],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0347738,
+		"desc": "MouseMovement",
+		"info": [1172, 519],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0439441,
+		"desc": "MouseMovement",
+		"info": [1226, 482],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0527022,
+		"desc": "MouseMovement",
+		"info": [1285, 436],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0592287,
+		"desc": "MouseMovement",
+		"info": [1339, 399],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.067798,
+		"desc": "MouseMovement",
+		"info": [1390, 360],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0758028,
+		"desc": "MouseMovement",
+		"info": [1441, 323],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.082866,
+		"desc": "MouseMovement",
+		"info": [1485, 296],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0921342,
+		"desc": "MouseMovement",
+		"info": [1529, 266],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.0998118,
+		"desc": "MouseMovement",
+		"info": [1570, 236],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1070433,
+		"desc": "MouseMovement",
+		"info": [1608, 209],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1158314,
+		"desc": "MouseMovement",
+		"info": [1641, 193],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1237442,
+		"desc": "MouseMovement",
+		"info": [1678, 167],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1310444,
+		"desc": "MouseMovement",
+		"info": [1702, 150],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1398864,
+		"desc": "MouseMovement",
+		"info": [1724, 132],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1478727,
+		"desc": "MouseMovement",
+		"info": [1745, 116],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1548765,
+		"desc": "MouseMovement",
+		"info": [1767, 96],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.163822,
+		"desc": "MouseMovement",
+		"info": [1780, 85],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.172225,
+		"desc": "MouseMovement",
+		"info": [1789, 74],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1788688,
+		"desc": "MouseMovement",
+		"info": [1798, 67],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1878603,
+		"desc": "MouseMovement",
+		"info": [1806, 59],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.1957574,
+		"desc": "MouseMovement",
+		"info": [1811, 55],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2027433,
+		"desc": "MouseMovement",
+		"info": [1815, 50],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2118044,
+		"desc": "MouseMovement",
+		"info": [1820, 47],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2200134,
+		"desc": "MouseMovement",
+		"info": [1823, 44],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2272878,
+		"desc": "MouseMovement",
+		"info": [1825, 42],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2359047,
+		"desc": "MouseMovement",
+		"info": [1829, 39],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2440217,
+		"desc": "MouseMovement",
+		"info": [1834, 36],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2508533,
+		"desc": "MouseMovement",
+		"info": [1840, 31],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.259855,
+		"desc": "MouseMovement",
+		"info": [1844, 28],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2676983,
+		"desc": "MouseMovement",
+		"info": [1849, 23],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2749028,
+		"desc": "MouseMovement",
+		"info": [1853, 19],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2838798,
+		"desc": "MouseMovement",
+		"info": [1856, 16],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.2918658,
+		"desc": "MouseMovement",
+		"info": [1859, 12],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.298941,
+		"desc": "MouseMovement",
+		"info": [1861, 10],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.3079674,
+		"desc": "MouseMovement",
+		"info": [1862, 8],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.3160079,
+		"desc": "MouseMovement",
+		"info": [1863, 6],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.3229527,
+		"desc": "MouseMovement",
+		"info": [1863, 6],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.3321974,
+		"desc": "MouseMovement",
+		"info": [1863, 5],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.355002,
+		"desc": "MouseMovement",
+		"info": [1862, 5],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.364254,
+		"desc": "MouseMovement",
+		"info": [1861, 5],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.3708942,
+		"desc": "MouseMovement",
+		"info": [1859, 5],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.378956,
+		"desc": "MouseMovement",
+		"info": [1857, 5],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.3877406,
+		"desc": "MouseMovement",
+		"info": [1850, 6],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.3950365,
+		"desc": "MouseMovement",
+		"info": [1844, 8],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.402896,
+		"desc": "MouseMovement",
+		"info": [1833, 12],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.4121869,
+		"desc": "MouseMovement",
+		"info": [1826, 16],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.4189532,
+		"desc": "MouseMovement",
+		"info": [1816, 20],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.4268775,
+		"desc": "MouseMovement",
+		"info": [1808, 22],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.436195,
+		"desc": "MouseMovement",
+		"info": [1801, 26],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.4430306,
+		"desc": "MouseMovement",
+		"info": [1795, 28],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.450962,
+		"desc": "MouseMovement",
+		"info": [1788, 31],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.4599771,
+		"desc": "MouseMovement",
+		"info": [1782, 33],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.4670024,
+		"desc": "MouseMovement",
+		"info": [1777, 35],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.4749722,
+		"desc": "MouseMovement",
+		"info": [1774, 36],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.48398,
+		"desc": "MouseMovement",
+		"info": [1771, 37],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.490865,
+		"desc": "MouseMovement",
+		"info": [1770, 37],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.4988925,
+		"desc": "MouseMovement",
+		"info": [1767, 37],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.5146472,
+		"desc": "MouseMovement",
+		"info": [1766, 37],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.5813582,
+		"desc": "MousePressedLeft",
+		"info": [1766, 37],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.653905,
+		"desc": "MouseReleasedLeft",
+		"info": [1766, 37],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.6901565,
+		"desc": "MouseMovement",
+		"info": [1766, 38],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.8627937,
+		"desc": "MouseMovement",
+		"info": [1765, 38],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.8697948,
+		"desc": "MouseMovement",
+		"info": [1764, 39],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.8777957,
+		"desc": "MouseMovement",
+		"info": [1760, 44],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.8868446,
+		"desc": "MouseMovement",
+		"info": [1756, 49],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.8941205,
+		"desc": "MouseMovement",
+		"info": [1750, 53],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9018939,
+		"desc": "MouseMovement",
+		"info": [1742, 61],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9108036,
+		"desc": "MouseMovement",
+		"info": [1734, 67],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.91788,
+		"desc": "MouseMovement",
+		"info": [1724, 76],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.925899,
+		"desc": "MouseMovement",
+		"info": [1707, 88],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9348965,
+		"desc": "MouseMovement",
+		"info": [1693, 98],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.941911,
+		"desc": "MouseMovement",
+		"info": [1671, 114],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.949878,
+		"desc": "MouseMovement",
+		"info": [1653, 129],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9589248,
+		"desc": "MouseMovement",
+		"info": [1642, 137],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9657502,
+		"desc": "MouseMovement",
+		"info": [1623, 154],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9740503,
+		"desc": "MouseMovement",
+		"info": [1598, 173],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9828749,
+		"desc": "MouseMovement",
+		"info": [1573, 191],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9899511,
+		"desc": "MouseMovement",
+		"info": [1542, 214],
+		"dir": null
+		},
+		{
+		"ts": 1778952861.9977722,
+		"desc": "MouseMovement",
+		"info": [1521, 230],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0072055,
+		"desc": "MouseMovement",
+		"info": [1500, 246],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0141957,
+		"desc": "MouseMovement",
+		"info": [1480, 260],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0221448,
+		"desc": "MouseMovement",
+		"info": [1452, 279],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0308344,
+		"desc": "MouseMovement",
+		"info": [1438, 289],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0382953,
+		"desc": "MouseMovement",
+		"info": [1424, 299],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0459788,
+		"desc": "MouseMovement",
+		"info": [1411, 307],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0553527,
+		"desc": "MouseMovement",
+		"info": [1396, 314],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.06189,
+		"desc": "MouseMovement",
+		"info": [1381, 321],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0700066,
+		"desc": "MouseMovement",
+		"info": [1365, 328],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0788095,
+		"desc": "MouseMovement",
+		"info": [1350, 334],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0858343,
+		"desc": "MouseMovement",
+		"info": [1325, 342],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.0938222,
+		"desc": "MouseMovement",
+		"info": [1301, 349],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.1027126,
+		"desc": "MouseMovement",
+		"info": [1277, 356],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.1098292,
+		"desc": "MouseMovement",
+		"info": [1240, 366],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.1178758,
+		"desc": "MouseMovement",
+		"info": [1213, 373],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.126922,
+		"desc": "MouseMovement",
+		"info": [1188, 382],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.133966,
+		"desc": "MouseMovement",
+		"info": [1167, 389],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.1428416,
+		"desc": "MouseMovement",
+		"info": [1138, 394],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.1508443,
+		"desc": "MouseMovement",
+		"info": [1119, 397],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.1584086,
+		"desc": "MouseMovement",
+		"info": [1099, 400],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.1657672,
+		"desc": "MouseMovement",
+		"info": [1081, 401],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.1748943,
+		"desc": "MouseMovement",
+		"info": [1055, 406],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.18191,
+		"desc": "MouseMovement",
+		"info": [1028, 412],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.18993,
+		"desc": "MouseMovement",
+		"info": [1005, 417],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.198819,
+		"desc": "MouseMovement",
+		"info": [970, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2059708,
+		"desc": "MouseMovement",
+		"info": [949, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2138953,
+		"desc": "MouseMovement",
+		"info": [912, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2230375,
+		"desc": "MouseMovement",
+		"info": [891, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2298791,
+		"desc": "MouseMovement",
+		"info": [860, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2388887,
+		"desc": "MouseMovement",
+		"info": [844, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.246848,
+		"desc": "MouseMovement",
+		"info": [826, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2538903,
+		"desc": "MouseMovement",
+		"info": [812, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2618454,
+		"desc": "MouseMovement",
+		"info": [801, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2707717,
+		"desc": "MouseMovement",
+		"info": [792, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2778986,
+		"desc": "MouseMovement",
+		"info": [784, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2856681,
+		"desc": "MouseMovement",
+		"info": [780, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.2948487,
+		"desc": "MouseMovement",
+		"info": [772, 421],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.3019106,
+		"desc": "MouseMovement",
+		"info": [769, 422],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.3097312,
+		"desc": "MouseMovement",
+		"info": [763, 422],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.3188658,
+		"desc": "MouseMovement",
+		"info": [761, 422],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.325824,
+		"desc": "MouseMovement",
+		"info": [757, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.333628,
+		"desc": "MouseMovement",
+		"info": [755, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.342728,
+		"desc": "MouseMovement",
+		"info": [753, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.3497956,
+		"desc": "MouseMovement",
+		"info": [750, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.3579464,
+		"desc": "MouseMovement",
+		"info": [747, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.3669257,
+		"desc": "MouseMovement",
+		"info": [745, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.3738823,
+		"desc": "MouseMovement",
+		"info": [741, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.381964,
+		"desc": "MouseMovement",
+		"info": [739, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.3907807,
+		"desc": "MouseMovement",
+		"info": [738, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.397869,
+		"desc": "MouseMovement",
+		"info": [738, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.5366602,
+		"desc": "MouseMovement",
+		"info": [737, 423],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.541552,
+		"desc": "MouseMovement",
+		"info": [736, 424],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.548065,
+		"desc": "MouseMovement",
+		"info": [734, 425],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.556036,
+		"desc": "MouseMovement",
+		"info": [725, 425],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.564998,
+		"desc": "MouseMovement",
+		"info": [718, 427],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.5720193,
+		"desc": "MouseMovement",
+		"info": [709, 429],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.5801406,
+		"desc": "MouseMovement",
+		"info": [700, 430],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.5892243,
+		"desc": "MouseMovement",
+		"info": [690, 430],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.5959053,
+		"desc": "MouseMovement",
+		"info": [683, 431],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.6038802,
+		"desc": "MouseMovement",
+		"info": [678, 431],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.613184,
+		"desc": "MouseMovement",
+		"info": [674, 432],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.6198153,
+		"desc": "MouseMovement",
+		"info": [672, 432],
+		"dir": null
+		},
+		{
+		"ts": 1778952862.6278622,
+		"desc": "MouseMovement",
+		"info": [671, 432],
+		"dir": null
+		}
+	]
+}

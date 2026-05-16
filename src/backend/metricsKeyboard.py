@@ -25,11 +25,6 @@ def saveCSV(df, userId):
         df.to_csv(userCSV_path, index=False)
     return
 
-def removeSensitiveData(df):
-    # Vamos remover alguma informação que possa comprometer a confiança do utilizador na aplicação
-    #além de alguma que possa não ser relevante para a autenticação
-    return df.drop(columns=['LETTER', 'USER'], errors = 'ignore')
-
 def getMetrics(df):
     
     # 1. Ordenar por sessão (TEST_SECTION_ID) e depois por tempo de pressão
@@ -136,7 +131,6 @@ def main():
     userId = int(re.search(r"id(\d)+", fileName).group(1))
 
     df_keystrokes = getMetrics(df)
-    # df_keystrokes = removeSensitiveData(df_keystrokes)
     saveCSV(df_keystrokes, userId)
 
 if __name__ == "__main__":
