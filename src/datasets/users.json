@@ -1,0 +1,12 @@
+{
+    "users" : [
+        {
+            "name": "Diogo Rodrigues",
+            "id"  : 1
+        },
+        {
+            "name": "Gabriel Antunes",
+            "id"  : 2
+        }
+    ]
+}

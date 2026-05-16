@@ -1,0 +1,1 @@
+criei este ficheiro só para o git reconhecer a pasta

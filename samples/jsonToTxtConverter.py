@@ -45,8 +45,8 @@ def writeKData(PATH_AUTH, fileName, pressEvent, relEvent, COUNTER):
 
 def keyboardConverter(jsonPath, fileName):
 
-    PATH_AUTH = "../datasets/Keystrokes/AuthorizedUsers/"
-    PATH_USER= "../datasets/Keystrokes/AuthorizedUsers/" + fileName
+    PATH_AUTH = "../src/datasets/Keystrokes/AuthorizedUsers/"
+    PATH_USER= "../src/datasets/Keystrokes/AuthorizedUsers/" + fileName
     COUNTER = 1
 
     with open(PATH_USER, "a") as file:
@@ -98,7 +98,7 @@ def writeMData(PATH_AUTH, userId, fileName, clientTS, button, state, x, y):
     with open(pathToJson, 'r') as jsonFile:
         data = json.load(jsonFile)
 
-    PATH_USER = f"../datasets/Mouse-Dynamics/AuthorizedUsers/user{userId}/" + fileName
+    PATH_USER = f"../src/datasets/Mouse-Dynamics/AuthorizedUsers/user{userId}/" + fileName
 
     #clientTS = clientTS
     #button = button
@@ -113,7 +113,7 @@ def mouseConverter(jsonPath, fileName, startTime):
 
     userId = int(re.search(r"id(\d)+", fileName).group(1))
 
-    PATH_AUTH = "../datasets/Mouse-Dynamics/AuthorizedUsers/"
+    PATH_AUTH = "../src/datasets/Mouse-Dynamics/AuthorizedUsers/"
     PATH2SESSION_JSON = PATH_AUTH + "sessionID.json"
 
     with open(PATH2SESSION_JSON, 'r') as jsonFile:
