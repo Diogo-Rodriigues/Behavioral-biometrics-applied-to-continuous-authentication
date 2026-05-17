@@ -23,8 +23,13 @@ def saveCSV(df, userId, userList, sessionNum):
     #vamos selecionar apenas um dos utilizadores além do original para fazer uma cópia
     #neste caso como apenas existem 2 utilizadores legítimos, a opção será sempre o utilizador não visado
 
-    userList.remove(userId)
-    impostorUser = random.choice(userList)
+    if userId in userList:
+        userList.remove(userId)
+        
+    if not userList:
+        impostorUser = userId + 1  # Fallback: cria um ID fictício para o impostor se não houver outros utilizadores
+    else:
+        impostorUser = random.choice(userList)
 
     df_impostor = df.copy()
 
@@ -36,7 +41,7 @@ def saveCSV(df, userId, userList, sessionNum):
     # Adicionamos a sample errada ao dataset
     df_impostor.insert(0, 'USER_ID', impostorUser)
     df_impostor.insert(1, 'SESSION_ID', sessionNum)
-    df['is_illeggal'] = 1
+    df_impostor['is_illeggal'] = 1
 
     trueUserCSV_path = PATH_CSV + f"mouse_dataset_processado_user{userId}.csv"
     impostorUserCSV_path = PATH_CSV + f"mouse_dataset_processado_user{impostorUser}.csv"
@@ -47,9 +52,9 @@ def saveCSV(df, userId, userList, sessionNum):
         df.to_csv(trueUserCSV_path, index=False)
 
     if os.path.exists(impostorUserCSV_path):
-        df.to_csv(impostorUserCSV_path, mode='a', index = False, header = False)
+        df_impostor.to_csv(impostorUserCSV_path, mode='a', index = False, header = False)
     else:
-        df.to_csv(impostorUserCSV_path, index=False)
+        df_impostor.to_csv(impostorUserCSV_path, index=False)
 
     return
 

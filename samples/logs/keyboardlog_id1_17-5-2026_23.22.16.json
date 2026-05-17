@@ -1,0 +1,702 @@
+{
+	"record": [
+		{
+		"ts": 1779056542.487398,
+		"desc": "KeyPressed",
+		"key": "l"
+		},
+		{
+		"ts": 1779056542.5672798,
+		"desc": "KeyReleased",
+		"key": "l"
+		},
+		{
+		"ts": 1779056542.6710281,
+		"desc": "KeyPressed",
+		"key": "i"
+		},
+		{
+		"ts": 1779056542.7595148,
+		"desc": "KeyReleased",
+		"key": "i"
+		},
+		{
+		"ts": 1779056542.7753224,
+		"desc": "KeyPressed",
+		"key": "n"
+		},
+		{
+		"ts": 1779056542.8312628,
+		"desc": "KeyPressed",
+		"key": "k"
+		},
+		{
+		"ts": 1779056542.8472137,
+		"desc": "KeyReleased",
+		"key": "n"
+		},
+		{
+		"ts": 1779056542.9192054,
+		"desc": "KeyReleased",
+		"key": "k"
+		},
+		{
+		"ts": 1779056543.0230622,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.enter"
+		},
+		{
+		"ts": 1779056543.079274,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.enter"
+		},
+		{
+		"ts": 1779056561.35099,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.shift"
+		},
+		{
+		"ts": 1779056561.671094,
+		"desc": "KeyPressed",
+		"key": "S"
+		},
+		{
+		"ts": 1779056561.7108917,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.shift"
+		},
+		{
+		"ts": 1779056561.8230035,
+		"desc": "KeyPressed",
+		"key": "o"
+		},
+		{
+		"ts": 1779056561.9111164,
+		"desc": "KeyReleased",
+		"key": "o"
+		},
+		{
+		"ts": 1779056562.0309064,
+		"desc": "KeyPressed",
+		"key": "u"
+		},
+		{
+		"ts": 1779056562.1108584,
+		"desc": "KeyReleased",
+		"key": "u"
+		},
+		{
+		"ts": 1779056562.2312503,
+		"desc": "KeyPressed",
+		"key": "n"
+		},
+		{
+		"ts": 1779056562.3114095,
+		"desc": "KeyPressed",
+		"key": "d"
+		},
+		{
+		"ts": 1779056562.319086,
+		"desc": "KeyReleased",
+		"key": "n"
+		},
+		{
+		"ts": 1779056562.3830316,
+		"desc": "KeyPressed",
+		"key": "s"
+		},
+		{
+		"ts": 1779056562.438815,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056562.4628897,
+		"desc": "KeyReleased",
+		"key": "d"
+		},
+		{
+		"ts": 1779056562.5029702,
+		"desc": "KeyReleased",
+		"key": "s"
+		},
+		{
+		"ts": 1779056562.5267498,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056562.6629894,
+		"desc": "KeyPressed",
+		"key": "p"
+		},
+		{
+		"ts": 1779056562.7512045,
+		"desc": "KeyReleased",
+		"key": "p"
+		},
+		{
+		"ts": 1779056562.7589085,
+		"desc": "KeyPressed",
+		"key": "e"
+		},
+		{
+		"ts": 1779056562.8390179,
+		"desc": "KeyReleased",
+		"key": "e"
+		},
+		{
+		"ts": 1779056562.9429345,
+		"desc": "KeyPressed",
+		"key": "r"
+		},
+		{
+		"ts": 1779056563.0228891,
+		"desc": "KeyReleased",
+		"key": "r"
+		},
+		{
+		"ts": 1779056563.4229274,
+		"desc": "KeyPressed",
+		"key": "f"
+		},
+		{
+		"ts": 1779056563.4950557,
+		"desc": "KeyReleased",
+		"key": "f"
+		},
+		{
+		"ts": 1779056563.5906904,
+		"desc": "KeyPressed",
+		"key": "e"
+		},
+		{
+		"ts": 1779056563.6549284,
+		"desc": "KeyReleased",
+		"key": "e"
+		},
+		{
+		"ts": 1779056563.7832985,
+		"desc": "KeyPressed",
+		"key": "c"
+		},
+		{
+		"ts": 1779056563.7990072,
+		"desc": "KeyPressed",
+		"key": "t"
+		},
+		{
+		"ts": 1779056563.8627987,
+		"desc": "KeyReleased",
+		"key": "c"
+		},
+		{
+		"ts": 1779056563.902908,
+		"desc": "KeyReleased",
+		"key": "t"
+		},
+		{
+		"ts": 1779056564.559025,
+		"desc": "KeyPressed",
+		"key": ","
+		},
+		{
+		"ts": 1779056564.6229768,
+		"desc": "KeyReleased",
+		"key": ","
+		},
+		{
+		"ts": 1779056564.6306753,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056564.742665,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056570.478619,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.shift"
+		},
+		{
+		"ts": 1779056570.774683,
+		"desc": "KeyPressed",
+		"key": "I"
+		},
+		{
+		"ts": 1779056570.8470192,
+		"desc": "KeyReleased",
+		"key": "I"
+		},
+		{
+		"ts": 1779056570.9186254,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.shift"
+		},
+		{
+		"ts": 1779056571.9348521,
+		"desc": "KeyPressed",
+		"key": "'"
+		},
+		{
+		"ts": 1779056572.0147915,
+		"desc": "KeyReleased",
+		"key": "'"
+		},
+		{
+		"ts": 1779056573.3032804,
+		"desc": "KeyPressed",
+		"key": "l"
+		},
+		{
+		"ts": 1779056573.366803,
+		"desc": "KeyReleased",
+		"key": "l"
+		},
+		{
+		"ts": 1779056573.4469419,
+		"desc": "KeyPressed",
+		"key": "l"
+		},
+		{
+		"ts": 1779056573.535101,
+		"desc": "KeyReleased",
+		"key": "l"
+		},
+		{
+		"ts": 1779056573.5427346,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056573.710863,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056573.8067644,
+		"desc": "KeyPressed",
+		"key": "b"
+		},
+		{
+		"ts": 1779056573.8868139,
+		"desc": "KeyReleased",
+		"key": "b"
+		},
+		{
+		"ts": 1779056573.9274,
+		"desc": "KeyPressed",
+		"key": "e"
+		},
+		{
+		"ts": 1779056573.9833252,
+		"desc": "KeyReleased",
+		"key": "e"
+		},
+		{
+		"ts": 1779056573.990536,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056574.0945914,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056574.2628765,
+		"desc": "KeyPressed",
+		"key": "w"
+		},
+		{
+		"ts": 1779056574.4146123,
+		"desc": "KeyPressed",
+		"key": "i"
+		},
+		{
+		"ts": 1779056574.422884,
+		"desc": "KeyPressed",
+		"key": "a"
+		},
+		{
+		"ts": 1779056574.4547725,
+		"desc": "KeyReleased",
+		"key": "w"
+		},
+		{
+		"ts": 1779056574.5276854,
+		"desc": "KeyReleased",
+		"key": "i"
+		},
+		{
+		"ts": 1779056574.5592077,
+		"desc": "KeyReleased",
+		"key": "a"
+		},
+		{
+		"ts": 1779056575.102758,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.backspace"
+		},
+		{
+		"ts": 1779056575.1586509,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.backspace"
+		},
+		{
+		"ts": 1779056575.231172,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.backspace"
+		},
+		{
+		"ts": 1779056575.3106694,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.backspace"
+		},
+		{
+		"ts": 1779056575.359269,
+		"desc": "KeyPressed",
+		"key": "a"
+		},
+		{
+		"ts": 1779056575.4551277,
+		"desc": "KeyReleased",
+		"key": "a"
+		},
+		{
+		"ts": 1779056575.495186,
+		"desc": "KeyPressed",
+		"key": "i"
+		},
+		{
+		"ts": 1779056575.5829241,
+		"desc": "KeyReleased",
+		"key": "i"
+		},
+		{
+		"ts": 1779056575.727043,
+		"desc": "KeyPressed",
+		"key": "t"
+		},
+		{
+		"ts": 1779056575.7988422,
+		"desc": "KeyReleased",
+		"key": "t"
+		},
+		{
+		"ts": 1779056575.8548148,
+		"desc": "KeyPressed",
+		"key": "i"
+		},
+		{
+		"ts": 1779056575.9350944,
+		"desc": "KeyReleased",
+		"key": "i"
+		},
+		{
+		"ts": 1779056576.111206,
+		"desc": "KeyPressed",
+		"key": "n"
+		},
+		{
+		"ts": 1779056576.1993506,
+		"desc": "KeyReleased",
+		"key": "n"
+		},
+		{
+		"ts": 1779056576.206821,
+		"desc": "KeyPressed",
+		"key": "g"
+		},
+		{
+		"ts": 1779056576.287037,
+		"desc": "KeyReleased",
+		"key": "g"
+		},
+		{
+		"ts": 1779056576.3106039,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056576.4064596,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056576.7427604,
+		"desc": "KeyPressed",
+		"key": "f"
+		},
+		{
+		"ts": 1779056576.8388274,
+		"desc": "KeyPressed",
+		"key": "o"
+		},
+		{
+		"ts": 1779056576.8468401,
+		"desc": "KeyReleased",
+		"key": "f"
+		},
+		{
+		"ts": 1779056576.9191165,
+		"desc": "KeyReleased",
+		"key": "o"
+		},
+		{
+		"ts": 1779056576.9753997,
+		"desc": "KeyPressed",
+		"key": "r"
+		},
+		{
+		"ts": 1779056577.0625122,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056577.0708487,
+		"desc": "KeyReleased",
+		"key": "r"
+		},
+		{
+		"ts": 1779056577.134582,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056579.262686,
+		"desc": "KeyPressed",
+		"key": "t"
+		},
+		{
+		"ts": 1779056579.327002,
+		"desc": "KeyPressed",
+		"key": "h"
+		},
+		{
+		"ts": 1779056579.3347323,
+		"desc": "KeyReleased",
+		"key": "t"
+		},
+		{
+		"ts": 1779056579.4146729,
+		"desc": "KeyReleased",
+		"key": "h"
+		},
+		{
+		"ts": 1779056579.4870865,
+		"desc": "KeyPressed",
+		"key": "e"
+		},
+		{
+		"ts": 1779056579.5344162,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056579.5667076,
+		"desc": "KeyReleased",
+		"key": "e"
+		},
+		{
+		"ts": 1779056579.6386096,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056579.8066661,
+		"desc": "KeyPressed",
+		"key": "l"
+		},
+		{
+		"ts": 1779056579.8787756,
+		"desc": "KeyReleased",
+		"key": "l"
+		},
+		{
+		"ts": 1779056579.9987307,
+		"desc": "KeyPressed",
+		"key": "i"
+		},
+		{
+		"ts": 1779056580.0865467,
+		"desc": "KeyReleased",
+		"key": "i"
+		},
+		{
+		"ts": 1779056580.1030056,
+		"desc": "KeyPressed",
+		"key": "n"
+		},
+		{
+		"ts": 1779056580.1751823,
+		"desc": "KeyReleased",
+		"key": "n"
+		},
+		{
+		"ts": 1779056580.2067525,
+		"desc": "KeyPressed",
+		"key": "k"
+		},
+		{
+		"ts": 1779056580.303575,
+		"desc": "KeyReleased",
+		"key": "k"
+		},
+		{
+		"ts": 1779056583.5428338,
+		"desc": "KeyPressed",
+		"key": ","
+		},
+		{
+		"ts": 1779056583.6470184,
+		"desc": "KeyReleased",
+		"key": ","
+		},
+		{
+		"ts": 1779056583.734483,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056583.8717055,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056584.1184409,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.shift"
+		},
+		{
+		"ts": 1779056584.1748352,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.shift"
+		},
+		{
+		"ts": 1779056584.4552493,
+		"desc": "KeyPressed",
+		"key": "t"
+		},
+		{
+		"ts": 1779056584.5833514,
+		"desc": "KeyReleased",
+		"key": "t"
+		},
+		{
+		"ts": 1779056584.6315236,
+		"desc": "KeyPressed",
+		"key": "h"
+		},
+		{
+		"ts": 1779056584.710729,
+		"desc": "KeyPressed",
+		"key": "a"
+		},
+		{
+		"ts": 1779056584.7507188,
+		"desc": "KeyReleased",
+		"key": "h"
+		},
+		{
+		"ts": 1779056584.7911386,
+		"desc": "KeyReleased",
+		"key": "a"
+		},
+		{
+		"ts": 1779056584.9992166,
+		"desc": "KeyPressed",
+		"key": "n"
+		},
+		{
+		"ts": 1779056585.0786233,
+		"desc": "KeyReleased",
+		"key": "n"
+		},
+		{
+		"ts": 1779056585.270447,
+		"desc": "KeyPressed",
+		"key": "k"
+		},
+		{
+		"ts": 1779056585.3506823,
+		"desc": "KeyReleased",
+		"key": "k"
+		},
+		{
+		"ts": 1779056585.5266647,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056585.6464834,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.space"
+		},
+		{
+		"ts": 1779056585.7832873,
+		"desc": "KeyPressed",
+		"key": "y"
+		},
+		{
+		"ts": 1779056585.886468,
+		"desc": "KeyReleased",
+		"key": "y"
+		},
+		{
+		"ts": 1779056585.8947594,
+		"desc": "KeyPressed",
+		"key": "o"
+		},
+		{
+		"ts": 1779056585.9747157,
+		"desc": "KeyReleased",
+		"key": "o"
+		},
+		{
+		"ts": 1779056586.126613,
+		"desc": "KeyPressed",
+		"key": "u"
+		},
+		{
+		"ts": 1779056586.1986961,
+		"desc": "KeyReleased",
+		"key": "u"
+		},
+		{
+		"ts": 1779056586.462381,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.shift_r"
+		},
+		{
+		"ts": 1779056586.5190284,
+		"desc": "KeyPressed",
+		"key": "!"
+		},
+		{
+		"ts": 1779056586.6064913,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.shift_r"
+		},
+		{
+		"ts": 1779056607.3582482,
+		"desc": "SpecialKeyPressed",
+		"key": "Key.ctrl_l"
+		},
+		{
+		"ts": 1779056607.4704022,
+		"desc": "KeyPressed",
+		"key": ""
+		},
+		{
+		"ts": 1779056607.6146426,
+		"desc": "KeyReleased",
+		"key": ""
+		},
+		{
+		"ts": 1779056607.7103605,
+		"desc": "SpecialKeyReleased",
+		"key": "Key.ctrl_l"
+		},

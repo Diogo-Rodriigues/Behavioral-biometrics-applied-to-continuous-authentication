@@ -12,3 +12,5 @@ livelossplot
 ipython
 scikit-learn
 livelossplot
+pynput
+requests

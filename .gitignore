@@ -1,13 +1,22 @@
 Notas_SA/
 
-src/sensor/logs/*
-src/sensor/__pycache__/
+# Python Cache
+__pycache__/
+**/__pycache__/
+*.pyc
 
-src/datasets/Keystrokes/files/*
-src/datasets/Mouse-Dynamics/test_files/*
-src/datasets/Mouse-Dynamics/training_files/*
-src/datasets/Mouse-Dynamics/public_labels.csv
-src/datasets/ProcessedData/mouse_dataset_processado.parquet
-src/datasets/ProcessedData/keystroke_dataset_processado.csv
+# Real-Time / Zero Trust outputs
+dataset/session_live_*.csv
+src/backend/zero_trust/scaler_*.pkl
 
-.vscode
+# Datasets (Raw & Processed)
+dataset/keystrokes/*
+dataset/Mouse-Dynamics/test_files/*
+dataset/Mouse-Dynamics/training_files/*
+dataset/Mouse-Dynamics/public_labels.csv
+dataset/mouse_dataset_processado.parquet
+dataset/keystroke_dataset_processado.csv
+
+# IDE & Environments
+.vscode/
+.venv/
