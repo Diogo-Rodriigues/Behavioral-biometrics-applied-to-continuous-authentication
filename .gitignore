@@ -7,7 +7,6 @@ __pycache__/
 
 # Real-Time / Zero Trust outputs
 dataset/session_live_*.csv
-src/backend/zero_trust/scaler_*.pkl
 
 # Datasets (Raw & Processed)
 dataset/keystrokes/*
